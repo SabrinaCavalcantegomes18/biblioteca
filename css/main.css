@@ -116,13 +116,13 @@ body{
 }
 body{
     min-height: 100vh;
-    background-color: green;
+    background-color:  #add8e6;
 }
 /* A regra afetará o corpo da página*/
 /*MENU*/
 body {
     min-height: 100vh;
-    background-color: green;
+    background-color:  #add8e6;
 }
 
 /* O nav criará efeito para o menu lateral*/
@@ -152,7 +152,7 @@ nav .div-logo-name {
 nav .logo_name {
     font-size: 29px;
     font-weight: 600;
-    color: green;
+    color:  #add8e6;
     transition: all 0.5s ease;
 }
 
@@ -216,7 +216,7 @@ nav .menu-items {
 }
 
 .nav-links li:hover {
-    border-left: 3px solid green;
+    border-left: 3px solid  #add8e6;
     font-weight: bold;
     background-image: linear-gradient(to right, #181E22, #181E22, #2C383D) !important;
     background: transparent;
@@ -371,7 +371,7 @@ nav.close li a .link-name {
 }
 
 .actionimg .menu ul li:hover * {
-    color: green;
+    color:  #add8e6;
 }
 
 .actionimg .menu ul li:hover a {
@@ -413,7 +413,7 @@ nav.close li a .link-name {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: green;
+    background:  #add8e6;
 }
 /*--------------fim----------------*/
 
